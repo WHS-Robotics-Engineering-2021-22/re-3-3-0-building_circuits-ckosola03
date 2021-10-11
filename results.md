@@ -1,0 +1,1 @@
+The orginal circuit was not connnected to ground and there was not one clear path through the LEDs. So first I made it so that all three LEDs came from the same section of the power source. I then connected all three LEDs to ground.
